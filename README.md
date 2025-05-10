@@ -3,4 +3,4 @@ A simple copy and paste web app you can embed on your website to help you easily
 
 ## Here's a screenshot:
 
-[A screenshot of the AI image generation prompt builder form](/2025-05-10_12_21_22-Settings.jpg)
+![A screenshot of the AI image generation prompt builder form](/2025-05-10_12_21_22-Settings.jpg)
